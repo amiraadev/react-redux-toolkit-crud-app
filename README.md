@@ -23,11 +23,6 @@ npm run dev
 
 3. Use the app to create, read, update, and delete items in the collection.
 
-## Folder Structure
-
-- `/src/posts`: Contains the React components used in the app.
-- `/src/features`: Contains Redux Toolkit slices defining the state and actions for the CRUD operations.
-- `/src/store`: Contains the Redux store configuration.
 
 ## Technologies Used
 
